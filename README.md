@@ -1,6 +1,6 @@
 
 
-            Admin Details for login: 
+Admin Details for login: 
 
 User Name:admin@gmail.com
 pass: admin@123
